@@ -173,4 +173,4 @@ MIT – feel free to copy, modify, and use this as a starter for your own servic
 
 ## 🙋‍♂️ Author
 
-Created by the **Antigravity** AI coding assistant (Google DeepMind Advanced Agentic Coding) as a demonstration of a fully‑tested, concurrency‑safe backend.
+Created by the **Mohammad Ali** as a demonstration of a fully‑tested, concurrency‑safe backend.
